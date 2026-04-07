@@ -9,8 +9,10 @@ The purpose of this folder is to practice and understand **HTML structure and fu
 ## Topics Covered
 
 * Basic HTML structure
-* Headings and paragraphs
-* Lists and tables
-* Links and images
-* Audio and video elements
+* Headings and paragraphs(h1-h6,p)
+* Lists and tables(li,ui,dl,table)
+* Links and images (href,img)
+* Audio and video elements (mp3,mp4)
+* Semantic Tags
+* Inline-Block elements
 
