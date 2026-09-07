@@ -1,6 +1,6 @@
 # HTML & CSS Practice
 
-This repository contains my beginner-level HTML and CSS practice projects.
+This repository contains my beginner-level HTML and CSS practices or Excersises solved.
 
 It includes basic programs, layout exercises, and simple responsive web pages that I am building while learning front-end development.
 
