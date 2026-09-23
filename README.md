@@ -7,6 +7,7 @@ It includes basic programs, layout exercises, and simple responsive web pages th
 The goal of this repository is to improve my understanding of HTML, CSS(positions,flex box), and  web design concepts through hands-on practice.
 
 Excercises Practiced
+
 Coding Exercise 1: Create a Simple Heading
 
 Coding Exercise 2: Create a Paragraph with a Link
